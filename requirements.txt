@@ -1,0 +1,6 @@
+Flask>=3.0
+pypdf>=4.0
+qrcode[pil]>=7.4
+pyotp>=2.9
+requests>=2.31
+cryptography>=42
